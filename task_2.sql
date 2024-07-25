@@ -19,7 +19,7 @@ CREATE TABLE Customers (
     address TEXT
 )
 
-CREATE TABLE Orders (
+CREATE TABLE Order_Details (
     order_id INT AUTO INCREMENT PRIMARY KEY,
     customer_id INT,
     order_date DATE,
