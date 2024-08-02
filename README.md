@@ -78,12 +78,21 @@ Write a script that creates all the tables below in alx_book_store in your MySQL
 
  - All SQL keywords should be in uppercase
 
- ## 3. List all the tables created 
- 
+## 3. List all the tables created 
+
  - Write a script that list all the tables in `alx_book_store` in your MySQL server.
 
     - The name of the file should be `task_3.sql`
     - The database name will be passed as argument of mysql command
 
+
+## 4. Full description
+
+ - Write a script that prints the full description of the table `books` from the database `alx_book_store` in your MySQL server.
+
+    - The database name will be passed as an argument of the `mysql` command
+    - You are not allowed to use the `DESCRIBE` or `EXPLAIN` statements
+    - The name of the file should be `task_4.sql`
+    - All SQL keywords should be in uppercase
 
 
